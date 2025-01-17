@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- 外部CSSファイルをリンク -->
 <link rel="stylesheet" href="../css/styles.css">
-
+<!-- githubで修正 -->
 <!-- GoogleフォントSawarabi Mincho -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
